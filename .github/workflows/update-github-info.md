@@ -13,9 +13,6 @@ permissions:
 tools:
   edit: {}
   web-fetch: {}
-vars:
-  GH_AW_DEFAULT_MODEL_COPILOT: "gpt-4o"
-  GH_AW_MODEL_DETECTION_COPILOT: "gpt-4o"
 safe-outputs:
   create-pull-request:
     title-prefix: "[Mona site] "
