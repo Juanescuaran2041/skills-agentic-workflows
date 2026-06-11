@@ -20,7 +20,7 @@ safe-outputs:
     fallback-as-issue: false
 network:
   allowed:
-    - defaults
+    - github.com
     - github.blog
 ---
 
