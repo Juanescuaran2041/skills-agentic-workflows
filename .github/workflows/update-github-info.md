@@ -18,6 +18,8 @@ safe-outputs:
     title-prefix: "[Mona site] "
     draft: false
     fallback-as-issue: false
+vars:
+  GH_AW_DEFAULT_MODEL_COPILOT: gpt-5.4
 network:
   allowed:
     - github.com
